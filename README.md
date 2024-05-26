@@ -1,1 +1,4 @@
-for starting the backend : npm start
+For starting the backend server :
+```
+npm start
+```
